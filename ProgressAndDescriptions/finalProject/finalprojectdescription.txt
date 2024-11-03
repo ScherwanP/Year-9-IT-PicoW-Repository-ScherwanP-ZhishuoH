@@ -1,0 +1,3 @@
+This was our final project as we combined everything we have learnt throughout our progress. We added an external LED, a button, the potentiometer and even a buzzer in which we quickly learnt how to use it. This took many lessons of trial and error and the information from all the tutorials in order to get a functional device, capable of keeping homeowners safe. 
+
+Video of Final Project: https://cgsacteduau-my.sharepoint.com/:v:/g/personal/51945_cgs_act_edu_au/ESzlOZT1fztHiwzxgrwo9ngBMRXXD4fSwMFZxrPSPnDpIw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=R6mndq
